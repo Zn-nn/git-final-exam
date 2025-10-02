@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản.
 - Dễ dàng làm việc nhóm.
 - Ban đầu hơi khó nhưng quen thì rất tiện.
+- Có nhiều lệnh nâng cao cần luyện tập.
+- Hữu ích cho dự án thực tế.
