@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo
+1. Gửi thông báo khi có tài liệu mới.
+2. Gửi email nhắc nhở lịch học.
+3. Hiển thị thông báo trên giao diện web.
+4. Cho phép bật/tắt thông báo tùy người dùng.
+5. Lưu lại lịch sử thông báo.
