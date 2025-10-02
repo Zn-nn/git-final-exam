@@ -1,0 +1,22 @@
+Giới thiệu:
+Tôi tên: Võ Nguyễn.
+Hiện là sinh viên ngành CNTT.
+Sở thích: đọc sách, nghe nhạc, đọc sách.
+Mục tiêu: nắm vững Git và làm việc nhóm hiệu quả.
+
+Sở thích:
+1. Đọc sách
+2. Nghe nhạc
+3. Xem phim
+
+Kỹ năng:
+1. Python
+2. Git
+3. HTML/CSS
+
+Kế hoạch học tập:
+1. Nắm vững các kiến thức cơ bản về Git và GitHub.
+2. Hoàn thành các môn học chuyên ngành CNTT.
+3. Thực hành nhiều dự án nhóm để cải thiện teamwork.
+4. Rèn luyện kỹ năng lập trình nâng cao.
+5. Tìm hiểu thêm về các công nghệ mới như AI và Cloud.
